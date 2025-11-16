@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Hybrid Reflex Protocol: A Layered Cognitive Framework for Multi-Agent Creative AI"
+authors:
+  - family-names: "SchwarzeKatze"
+    given-names: "Research Lab"
+    affiliation: "Independent Research"
+version: "1.0"
+date-released: "2025-11-15"
+url: "https://github.com/<your-repository>"
+license: "CC-BY-4.0"
+type: "software"
+abstract: >
+  The Hybrid Reflex Protocol (HRP) is a conceptual layered cognitive
+  architecture for coordinating multiple AI systems within a unified
+  creative reasoning workflow. This Academic Edition provides a high-level,
+  implementation-agnostic description suitable for research, analysis, and citation.
+
